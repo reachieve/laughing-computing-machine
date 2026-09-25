@@ -1,0 +1,8 @@
+grequests
+requests
+fpstimer
+spotipy
+python-dotenv
+pypresence
+beautifulsoup4
+cloudscraper
